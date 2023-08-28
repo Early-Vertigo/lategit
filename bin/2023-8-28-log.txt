@@ -1,0 +1,4 @@
+11:14:51=>first log message!11:14:51=>11:15:58=>first log message!
+11:15:58=>
+23:51:35=>[INFO] service_name:FriendServiceRpc
+23:51:35=>[INFO] method_name:GetFriendsList
